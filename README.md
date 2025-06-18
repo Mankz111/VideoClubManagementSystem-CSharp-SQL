@@ -32,12 +32,13 @@ Ensure you have the following software installed in your development environment
 Microsoft SQL Server: To host the project database. You can use SQL Server Express (a free version).
 SQL Server Management Studio (SSMS) or a similar tool: Essential for managing the database and executing the provided SQL scripts.
 Visual Studio 2022 (or compatible version): To open, compile, and run the C# (Windows Forms) application.
-Setup Steps
+
+ - Setup Steps -
 Clone the Repository:
 Open Git Bash or your command-line terminal. Navigate to the folder where you want to save the project and execute the following command:
 git clone https://github.com/Mankz111/VideoClubManagementSystem-CSharp-SQL.git
 
-(Ensure this URL is correct and points to your GitHub repository.)
+
 
 Configure the SQL Server Database:
 
@@ -67,31 +68,33 @@ Compile and Run the Application:
 In Visual Studio, go to the "Build" menu and select "Build Solution".
 After a successful build, click the "Start" button in the Visual Studio toolbar (or press F5) to run the application.
 
-Application Screenshots
+## Application Screenshots
+
 See some images of the system's interface in action:
-![Main Application Interface](prints1/image_d36881.png)
-*A interface principal do sistema de gestão de videoclube.*
+
+### Application Overview
+![Main Application Interface](Prints1/image_d36881.png)
+*The main interface of the video club management system.*
 
 ### Client Management
-![Client Listing](prints1/Gestão de clientes.png)
+![Client Listing](Prints1/Gestão de clientes.png)
 
 ### Movie Management (with TMDB Integration)
-![Movie List](prints1/gestão de filmes.png)
-![Automatic TMDB Population](prints1/Preenchimento automático após 3 letras.png)
-![Movie Suggestion](prints1/Recomendação após 3 letras.png)
+![Movie List](Prints1/gestão de filmes.png)
+![Automatic TMDB Population](Prints1/Preenchimento automático após 3 letras.png)
+![Movie Suggestion](Prints1/Recomendação após 3 letras.png)
 
 ### Rental Management
-![Register New Rental](prints1/Gestão de alugueres.png)
+![Register New Rental](Prints1/Gestão de alugueres.png)
 
 ### Rental History
-![Overview of History](prints1/Histórico Alugueres.png)
+![Overview of History](Prints1/Histórico Alugueres.png)
 ![Individual Client History](prints1/Historico individual.png)
 
 ### Reports
-![Top Rented Movies](prints1/Top-filmes.png)
-![Never Rented Movies](prints1/Filmes nunca alugados.png)
-![Rentals by Date](prints1/Filmes por data.png)
-
+![Top Rented Movies](Prints1/Top-filmes.png)
+![Never Rented Movies](Prints1/Filmes nunca alugados.png)
+![Rentals by Date](Prints1/Filmes por data.png)
 
 
 
