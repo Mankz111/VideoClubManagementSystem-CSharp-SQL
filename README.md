@@ -66,7 +66,32 @@ Compile and Run the Application:
 
 In Visual Studio, go to the "Build" menu and select "Build Solution".
 After a successful build, click the "Start" button in the Visual Studio toolbar (or press F5) to run the application.
+
 Application Screenshots
 See some images of the system's interface in action:
+![Main Application Interface](prints1/image_d36881.png)
+*A interface principal do sistema de gestão de videoclube.*
+
+### Client Management
+![Client Listing](prints1/Gestão de clientes.png)
+
+### Movie Management (with TMDB Integration)
+![Movie List](prints1/gestão de filmes.png)
+![Automatic TMDB Population](prints1/Preenchimento automático após 3 letras.png)
+![Movie Suggestion](prints1/Recomendação após 3 letras.png)
+
+### Rental Management
+![Register New Rental](prints1/Gestão de alugueres.png)
+
+### Rental History
+![Overview of History](prints1/Histórico Alugueres.png)
+![Individual Client History](prints1/Historico individual.png)
+
+### Reports
+![Top Rented Movies](prints1/Top-filmes.png)
+![Never Rented Movies](prints1/Filmes nunca alugados.png)
+![Rentals by Date](prints1/Filmes por data.png)
+
+
 
 
