@@ -73,7 +73,7 @@ After a successful build, click the "Start" button in the Visual Studio toolbar 
 See some images of the system's interface in action:
 
 ### Application Overview
-![Main Application Interface](Prints1/image_d36881.png)
+![Main Application Interface](Prints1/Dashboard Principal.png)
 *The main interface of the video club management system.*
 
 ### Client Management
