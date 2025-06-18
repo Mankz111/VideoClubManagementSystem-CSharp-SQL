@@ -1,0 +1,1 @@
+SELECT F.Titulo FROM Filme F LEFT JOIN Aluguer A ON F.FilmeID = A.Filme_FilmeID WHERE A.Filme_FilmeID IS NULL

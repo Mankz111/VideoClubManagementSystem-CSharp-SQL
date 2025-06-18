@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdicionarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditAluguerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditFilmeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAluguer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEnviarContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFilmes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHistoricoAluguer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHistoricoAluguerCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHistoricoAlugueres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewAluguerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewFilmeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RelatoriosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

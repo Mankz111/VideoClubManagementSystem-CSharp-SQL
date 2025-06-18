@@ -1,0 +1,321 @@
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.exe
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.dll.config
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.deps.json
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.runtimeconfig.json
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.pdb
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ScottPlot.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ScottPlot.WinForms.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.csproj.AssemblyReference.cache
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.AdicionarCliente.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.EditAluguerForm.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.EditarCliente.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.EditFilmeForm.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.MainForm.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormAluguer.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormCliente.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormEnviarContacto.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormFilmes.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormHistoricoAluguer.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormHistoricoAluguerCliente.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormHistoricoAlugueres.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.NewAluguerForm.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.NewFilmeForm.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.Properties.Resources.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.RelatoriosForm.resources
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.csproj.GenerateResource.cache
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.AssemblyInfoInputs.cache
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.AssemblyInfo.cs
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.csproj.CoreCompileInputs.cache
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema .0193909D.Up2Date
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\refint\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.pdb
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.genruntimeconfig.cache
+C:\Users\sd199\source\repos\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\ref\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.exe
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.dll.config
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.deps.json
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.runtimeconfig.json
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.pdb
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ScottPlot.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ScottPlot.WinForms.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.csproj.AssemblyReference.cache
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.AdicionarCliente.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.EditAluguerForm.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.EditarCliente.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.EditFilmeForm.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.MainForm.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormAluguer.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormCliente.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormEnviarContacto.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormFilmes.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormHistoricoAluguer.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormHistoricoAluguerCliente.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormHistoricoAlugueres.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.NewAluguerForm.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.NewFilmeForm.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.Properties.Resources.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.RelatoriosForm.resources
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.csproj.GenerateResource.cache
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.AssemblyInfoInputs.cache
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.AssemblyInfo.cs
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.csproj.CoreCompileInputs.cache
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema .0193909D.Up2Date
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\refint\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.pdb
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.genruntimeconfig.cache
+C:\Users\sd199\Desktop\Sistema de video club continuação\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\ref\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.exe
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.dll.config
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.deps.json
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.runtimeconfig.json
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Sistema de Gestão de Videoclube.pdb
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ScottPlot.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ScottPlot.WinForms.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.csproj.AssemblyReference.cache
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.AdicionarCliente.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.EditAluguerForm.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.EditarCliente.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.EditFilmeForm.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.MainForm.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormAluguer.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormCliente.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormEnviarContacto.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormFilmes.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormHistoricoAluguer.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormHistoricoAluguerCliente.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.FormHistoricoAlugueres.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.NewAluguerForm.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.NewFilmeForm.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.Properties.Resources.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema_de_Gestão_de_Videoclube.RelatoriosForm.resources
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.csproj.GenerateResource.cache
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.AssemblyInfoInputs.cache
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.AssemblyInfo.cs
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.csproj.CoreCompileInputs.cache
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema .0193909D.Up2Date
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\refint\Sistema de Gestão de Videoclube.dll
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.pdb
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\Sistema de Gestão de Videoclube.genruntimeconfig.cache
+C:\Users\sd199\Desktop\Sistema de video club Parte - 2 Miguel Pereira\Sistema de Gestão de Videoclube\Sistema de Gestão de Videoclube\obj\Debug\net8.0-windows\ref\Sistema de Gestão de Videoclube.dll

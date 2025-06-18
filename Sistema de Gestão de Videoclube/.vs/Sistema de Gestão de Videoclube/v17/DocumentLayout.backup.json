@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\formfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\formfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\classes\\filmeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\classes\\filmeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\relatoriosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\relatoriosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\sistema de gest\u00E3o de videoclube\\relatoriosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\relatoriosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\classes\\aluguerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\classes\\aluguerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\formhistoricoalugueres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\formhistoricoalugueres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\formhistoricoalugueres.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\formhistoricoalugueres.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\sistema de gest\u00E3o de videoclube\\formhistoricoalugueres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\formhistoricoalugueres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\formhistoricoaluguer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\formhistoricoaluguer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\sistema de gest\u00E3o de videoclube\\formhistoricoaluguer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\formhistoricoaluguer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|c:\\users\\sd199\\desktop\\sistema de video club parte - 2 miguel pereira\\sistema de gest\u00E3o de videoclube\\sistema de gest\u00E3o de videoclube\\newfilmeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\newfilmeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\sistema de gest\u00E3o de videoclube\\newfilmeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51E762FC-1704-49FA-8221-F9FFC32E0B02}|Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube.csproj|solutionrelative:sistema de gest\u00E3o de videoclube\\newfilmeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormFilmes.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormFilmes.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\FormFilmes.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormFilmes.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\FormFilmes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:27:01.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmeClass.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\Classes\\FilmeClass.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\Classes\\FilmeClass.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\Classes\\FilmeClass.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\Classes\\FilmeClass.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAA2wHkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:23:25.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCliente.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormCliente.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\FormCliente.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormCliente.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\FormCliente.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwv3oAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:19:43.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AluguerClass.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\Classes\\AluguerClass.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\Classes\\AluguerClass.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\Classes\\AluguerClass.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\Classes\\AluguerClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:02:03.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormHistoricoAlugueres.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:01:56.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormHistoricoAlugueres.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.Designer.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.Designer.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.Designer.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:40:52.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormHistoricoAluguer.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAluguer.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAluguer.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAluguer.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAluguer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:33:19.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormHistoricoAluguer.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAluguer.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAluguer.cs",
+              "ToolTip": "C:\\Users\\sd199\\source\\repos\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAluguer.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAluguer.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:32:26.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewFilmeForm.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\NewFilmeForm.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\NewFilmeForm.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\NewFilmeForm.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\NewFilmeForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:06:53.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewFilmeForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\NewFilmeForm.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\NewFilmeForm.cs",
+              "ToolTip": "C:\\Users\\sd199\\source\\repos\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\NewFilmeForm.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\NewFilmeForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:06:43.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormHistoricoAlugueres.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.cs",
+              "ToolTip": "C:\\Users\\sd199\\source\\repos\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\FormHistoricoAlugueres.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:22:13.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\Cliente.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\Cliente.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\Cliente.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\Cliente.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAiwK0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:32:16.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelatoriosForm.cs",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\RelatoriosForm.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\RelatoriosForm.cs",
+              "ToolTip": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\RelatoriosForm.cs",
+              "RelativeToolTip": "Sistema de Gest\u00E3o de Videoclube\\RelatoriosForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:22:33.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelatoriosForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\sd199\\Desktop\\Sistema de video club Parte - 2 Miguel Pereira\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\RelatoriosForm.cs",
+              "RelativeDocumentMoniker": "Sistema de Gest\u00E3o de Videoclube\\RelatoriosForm.cs",
+              "ToolTip": "C:\\Users\\sd199\\source\\repos\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\RelatoriosForm.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Sistema de Gest\u00E3o de Videoclube\\Sistema de Gest\u00E3o de Videoclube\\RelatoriosForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:22:30.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
