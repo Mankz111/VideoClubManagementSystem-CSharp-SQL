@@ -1,101 +1,97 @@
-VideoClubManagementSystem-CSharp-SQL
-A desktop application for video rental store management, developed in C# (Windows Forms) with a SQL Server database and integrated with the TMDB API. This project focuses on efficient video store operations and data analysis, demonstrating full-stack development skills and attention to software robustness.
+🎬 Video Club Management System (C# / SQL Server)
+A robust Windows desktop application for video rental store management, developed using C# (Windows Forms) and SQL Server, with seamless integration of the TMDB API for rich movie data. This project demonstrates full-stack development skills, efficient data handling, and a strong focus on software robustness and user experience.
 
-Architecture and Key Features
-This system offers a comprehensive solution for video store management, highlighted by:
+🚀 Key Features
+SQL Server Database
 
-SQL Server Database: The database was modeled to ensure referential integrity and data consistency. It leverages Stored Procedures and Views for query optimization, encapsulation of business logic, and enhanced security.
-C# (Windows Forms): A functional and intuitive desktop application interface, designed for a fluid user experience.
-Robust Error Handling: Developed with try-catch blocks across all critical operations, ensuring proper exception capture and handling, preventing unexpected failures, and improving system stability.
-External API Integration (TMDB): Features automatic movie data population via an external API, streamlining the cataloging process and ensuring accurate information.
-Comprehensive Management: Complete modules for client, movie, and rental management, including return logging and detailed individual client history.
-Statistical Reports and Data Analysis: Generates important statistical reports (e.g., "Top Rented Movies", "Never Rented Movies", "Rentals by Date Range", and "Overdue Rentals by Client"), providing valuable insights for strategic decision-making. The "Clients with Overdue Rentals" report, in particular, demonstrates real-time monitoring capability and automated contact functionality, emphasizing the system's proactive approach to managing outstanding balances.
-Database Structure
-The system utilizes a SQL Server database. The Entity-Relationship Diagram (ERD) below illustrates the table structure and their relationships, ensuring data integrity and optimizing operations.
+Carefully modeled for data integrity and referential consistency.
+Uses Stored Procedures and Views for optimized queries, encapsulated business logic, and enhanced security.
+C# (Windows Forms)
 
-Visual representation of the Video Club database structure.
+Modern, intuitive, and responsive desktop app interface.
+Designed for smooth navigation and ease of use.
+Robust Error Handling
+
+Try-catch blocks across all critical operations.
+Prevents unexpected failures and improves system stability.
+TMDB API Integration
+
+Automatic movie data population and suggestions.
+Keeps your catalog accurate and up-to-date with minimal manual input.
+Comprehensive Management Modules
+
+Manage clients, movies, rentals, returns, and view detailed client histories.
+Full CRUD operations for all entities.
+Powerful Reporting & Analytics
+
+Generate actionable reports such as:
+Top Rented Movies
+Never Rented Movies
+Rentals by Date Range
+Overdue Rentals by Client
+Clients with Overdue Rentals (includes real-time monitoring & automated contact features)
+🗄️ Database Structure
+The system uses a SQL Server database designed for performance and reliability.
 
 Main Tables:
 
-Clientes: Stores information about video store clients.
-Filmes: Contains details about available movies.
-Alugueres: Records rental transactions, including rental date, return date, and status.
-SQL Scripts:
-The complete script for creating the database, tables, views, and stored procedures is available in the Database/ folder of the repository.
+Clientes: Video store clients.
+Filmes: Movie catalog.
+Alugueres: Rental transactions (rental date, return date, status, etc.).
+Scripts:
+All scripts for database creation (tables, views, stored procedures) are located in the Database/ folder.
 
-How to Set Up and Run the Project
-To set up and run this application locally, follow the steps below:
-
+🛠️ Getting Started
 Prerequisites
-Ensure you have the following software installed in your development environment:
-
-Microsoft SQL Server: To host the project database. You can use SQL Server Express (a free version).
-SQL Server Management Studio (SSMS) or a similar tool: Essential for managing the database and executing the provided SQL scripts.
-Visual Studio 2022 (or compatible version): To open, compile, and run the C# (Windows Forms) application.
-
- - Setup Steps -
-Clone the Repository:
-Open Git Bash or your command-line terminal. Navigate to the folder where you want to save the project and execute the following command:
+Microsoft SQL Server (Express edition is sufficient)
+SQL Server Management Studio (SSMS) or compatible tool
+Visual Studio 2022 (or later)
+1. Clone the Repository
+sh
 git clone https://github.com/Mankz111/VideoClubManagementSystem-CSharp-SQL.git
+2. Set Up the Database
+Create a new database (suggested name: VideoClubDB) using SSMS.
+In SSMS, open and execute Database/database_schema.sql on your new database.
+(Optional) Run Database/sample_data.sql to add demo data.
+3. Configure the Application
+Open the solution (.sln) in Visual Studio.
+In Solution Explorer, open App.config (usually under the main project folder).
+Edit the <connectionStrings> section:
+XML
+<connectionStrings>
+  <add name="VideoClubDB"
+       connectionString="Data Source=YOUR_SQL_SERVER_NAME;Initial Catalog=VideoClubDB;Integrated Security=True;Encrypt=False;TrustServerCertificate=True"/>
+</connectionStrings>
+Replace YOUR_SQL_SERVER_NAME (e.g., localhost, .\\SQLEXPRESS, or your machine name).
+Adjust for SQL authentication if needed.
+4. Build and Run
+In Visual Studio:
+Build the solution (Build > Build Solution)
+Run the application (Start button or F5)
+🖼️ Screenshots
+Overview	Client Management	Movie Management	TMDB Integration
+Dashboard	Clients	Movies	TMDB
+Movie Suggestion	Rental Management	Rental History	Reports
+Suggestion	Rentals	History	Top Movies
+Individual History	Never Rented
+📂 Folder Structure
+Code
+├── Database/
+│   ├── database_schema.sql
+│   └── sample_data.sql
+├── Prints1/            # Application screenshots
+├── VideoClubManagementSystem/  # Source code (C#)
+│   ├── App.config
+│   └── ... (other files)
+└── README.md
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repository and submit pull requests.
 
+📄 License
+This project is licensed under the MIT License.
 
-
-Configure the SQL Server Database:
-
-Create a New Database: In SQL Server Management Studio (SSMS), connect to your SQL Server instance. Right-click on "Databases" in the Object Explorer and select "New Database...". We suggest the name VideoClubDB for this database.
-Execute the Creation Script:
-Navigate to the Database/ folder within the cloned project on your computer.
-Open the database_schema.sql file in SSMS.
-Ensure you are connected to the database you created (VideoClubDB) in SSMS (by selecting it from the "Available Databases" dropdown or by using USE VideoClubDB; at the beginning of the script).
-Execute the script to create all necessary tables, views, and stored procedures for the system.
-(Optional) Populate with Sample Data:
-If a sample_data.sql file exists in the Database/ folder, you can also execute it in SSMS (targeting VideoClubDB) to populate the database with some test data, making it easier to start using the application immediately.
-Configure the Application's Connection String:
-
-Open the C# solution (.sln file) of the project in Visual Studio.
-
-In the "Solution Explorer", locate and open the App.config file (this file is usually at the root of your C# project, for example, VideoClubManagementSystem/App.config).
-
-Inside App.config, find the <connectionStrings> section. You will need to update the connectionString to point to your local SQL Server instance and the database name you created.
-
-Example of how to adjust: Data Source=YOUR_SQL_SERVER_NAME;Initial Catalog=VideoClubDB;Integrated Security=True;Encrypt=False;TrustServerCertificate=True
-YOUR_SQL_SERVER_NAME: Replace with a value like localhost, .\SQLEXPRESS, or your computer's name followed by \SQLEXPRESS (if you are using the SQL Server Express edition).
-VideoClubDB: This should be the exact name of the database you created in SSMS.
-Integrated Security=True: Indicates that the application will use Windows authentication. If you prefer to use an SQL user and password, change it to User ID=YourSQLUser;Password=YourSQLPassword;.
-Encrypt=False;TrustServerCertificate=True: These additional parameters might be necessary depending on your SQL Server version and security configuration to avoid connection errors.
-Compile and Run the Application:
-
-In Visual Studio, go to the "Build" menu and select "Build Solution".
-After a successful build, click the "Start" button in the Visual Studio toolbar (or press F5) to run the application.
-
-## Application Screenshots
-
-See some images of the system's interface in action:
-
-### Application Overview
-![Main Application Interface](Prints1/DashboardPrincipal.png)
-
-*The main interface of the video club management system.*
-
-### Client Management
-![Client Listing](Prints1/Gestãodeclientes.png)
-
-### Movie Management (with TMDB Integration)
-![Movie List](Prints1/Gestãodefilmes.png)
-![Automatic TMDB Population](Prints1/Preenchimentoautomáticoapós3letras.png)
-![Movie Suggestion](Prints1/Recomendaçãoapós3letras.png)
-
-### Rental Management
-![Register New Rental](Prints1/Gestãodealugueres.png)
-
-### Rental History
-![Overview of History](Prints1/HistóricoAlugueres.png)
-![Individual Client History](Prints1/Historicoindividual.png)
-
-### Reports
-![Top Rented Movies](Prints1/Top-filmes.png)
-![Never Rented Movies](Prints1/Filmesnuncaalugados.png)
-![Rentals by Date](Prints1/Filmespordata.png)
-
+📬 Contact
+For questions or support, please open an issue or contact Mankz111.
 
 
