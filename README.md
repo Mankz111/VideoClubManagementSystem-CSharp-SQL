@@ -74,21 +74,22 @@ See some images of the system's interface in action:
 
 ### Application Overview
 ![Main Application Interface](Prints1/DashboardPrincipal.png)
+
 *The main interface of the video club management system.*
 
 ### Client Management
-![Client Listing](Prints1/Gestão de clientes.png)
+![Client Listing](Prints1/Gestãodeclientes.png)
 
 ### Movie Management (with TMDB Integration)
-![Movie List](Prints1/Gestão de filmes.png)
+![Movie List](Prints1/Gestãodefilmes.png)
 ![Automatic TMDB Population](Prints1/Preenchimento automático após 3 letras.png)
 ![Movie Suggestion](Prints1/Recomendação após 3 letras.png)
 
 ### Rental Management
-![Register New Rental](Prints1/Gestão de alugueres.png)
+![Register New Rental](Prints1/Gestãodealugueres.png)
 
 ### Rental History
-![Overview of History](Prints1/Histórico Alugueres.png)
+![Overview of History](Prints1/HistóricoAlugueres.png)
 ![Individual Client History](Prints1/Historico individual.png)
 
 ### Reports
