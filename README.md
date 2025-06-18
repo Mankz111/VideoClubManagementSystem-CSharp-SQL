@@ -82,20 +82,20 @@ See some images of the system's interface in action:
 
 ### Movie Management (with TMDB Integration)
 ![Movie List](Prints1/Gestãodefilmes.png)
-![Automatic TMDB Population](Prints1/Preenchimento automático após 3 letras.png)
-![Movie Suggestion](Prints1/Recomendação após 3 letras.png)
+![Automatic TMDB Population](Prints1/Preenchimentoautomáticoapós3letras.png)
+![Movie Suggestion](Prints1/Recomendaçãoapós3letras.png)
 
 ### Rental Management
 ![Register New Rental](Prints1/Gestãodealugueres.png)
 
 ### Rental History
 ![Overview of History](Prints1/HistóricoAlugueres.png)
-![Individual Client History](Prints1/Historico individual.png)
+![Individual Client History](Prints1/Historicoindividual.png)
 
 ### Reports
 ![Top Rented Movies](Prints1/Top-filmes.png)
-![Never Rented Movies](Prints1/Filmes nunca alugados.png)
-![Rentals by Date](Prints1/Filmes por data.png)
+![Never Rented Movies](Prints1/Filmesnuncaalugados.png)
+![Rentals by Date](Prints1/Filmespordata.png)
 
 
 
