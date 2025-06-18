@@ -80,7 +80,7 @@ See some images of the system's interface in action:
 ![Client Listing](Prints1/Gestão de clientes.png)
 
 ### Movie Management (with TMDB Integration)
-![Movie List](Prints1/gestão de filmes.png)
+![Movie List](Prints1/Gestão de filmes.png)
 ![Automatic TMDB Population](Prints1/Preenchimento automático após 3 letras.png)
 ![Movie Suggestion](Prints1/Recomendação após 3 letras.png)
 
@@ -89,7 +89,7 @@ See some images of the system's interface in action:
 
 ### Rental History
 ![Overview of History](Prints1/Histórico Alugueres.png)
-![Individual Client History](prints1/Historico individual.png)
+![Individual Client History](Prints1/Historico individual.png)
 
 ### Reports
 ![Top Rented Movies](Prints1/Top-filmes.png)
